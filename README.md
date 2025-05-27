@@ -34,3 +34,6 @@
     </tr>
   </tbody>
 </table>
+<hr>
+<h3>Programa 2</h3>
+<p>Armazenar dez números em um vetor (atribuição ou via teclado). Exibir os valores na ordem inversa à da atribuição ou digitação</p>
