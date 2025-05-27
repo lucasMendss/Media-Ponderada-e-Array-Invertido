@@ -34,6 +34,7 @@
     </tr>
   </tbody>
 </table>
+<p>Obs.: ao final de cada processo, perguntar se o usuário deseja ou não calcular e exibir a média final e o conceito de outro aluno.</p>
 <hr>
 <h3>Programa 2</h3>
 <p>Armazenar dez números em um vetor (atribuição ou via teclado). Exibir os valores na ordem inversa à da atribuição ou digitação</p>
