@@ -1,0 +1,1 @@
+# Media-Ponderada-e-Array-Invertido
